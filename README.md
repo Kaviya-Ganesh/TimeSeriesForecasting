@@ -1,0 +1,1 @@
+This project implements time series forecasting to predict future values based on historical data. It leverages statistical and machine learning models to analyze trends, seasonality, and residual patterns, enabling accurate forecasts for real-world applications such as sales prediction, stock price analysis, or demand planning.
